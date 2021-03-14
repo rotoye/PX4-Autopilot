@@ -49,6 +49,7 @@ px4_add_board(
 		rc_input
 		roboclaw
 		rpm
+		smart_battery/batmon
 		telemetry # all available telemetry drivers
 		test_ppm
 		tone_alarm

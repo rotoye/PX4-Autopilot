@@ -20,6 +20,7 @@ px4_add_board(
 		adc/board_adc
 		#barometer # all available barometer drivers
 		barometer/ms5611
+		#batmon
 		#batt_smbus
 		#camera_capture
 		#camera_trigger
